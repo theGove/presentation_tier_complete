@@ -5,4 +5,4 @@ This example shows how to connect to a business tier hosted on the Google Cloud 
 
 You will need to configure a google apps script copied from the following publically available script:
 
-https://script.google.com/d/1uLToGT4OjjaPgjy4K-ge2MG7ezKHNyAPENZ4a8P1Y-_fnmdaPaXw5Qp5/edit?usp=sharing
+https://script.google.com/d/1MP8AzPEU13NWCN2koSkpPYX6mDg-eeU2OB93p_y4o2YugOTwo1YDTY-B/edit?usp=sharing

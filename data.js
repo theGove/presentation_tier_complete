@@ -1,4 +1,4 @@
-const gas_end_point="https://script.google.com/macros/s/AKfycbzu7LsUJSgMm2EFLAafoM8CAM7gtzJ-e31K8x_Dpc7HP_cSxjfz0Ddb93ooMmE84RiJNA/exec"
+const gas_end_point="ENTER YOUR GOOGLE APPS SCRIPT ENDPOINT HERE"
 
 async function customers_from_astra(){
     const payload={
